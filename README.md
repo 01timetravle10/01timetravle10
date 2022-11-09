@@ -1,8 +1,8 @@
-- 👋 Hi, I’m AJAY SAKET (@01timetravle10).  
-- 👀 I’m interested in ...COMPUTER SCIENCE.
-- 🌱 I’m currently learning ... FSD COURSE.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ajay Saket.
+- 👀 I’m interested in COMPUTER SCIENCE
+- 🌱 I’m currently learning the MERN stack developer.
+- 💞️ I’m looking for a job to kick my carrier as a developer.
+- 📫 To reach me
 
 <!---
 01timetravle10/01timetravle10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
